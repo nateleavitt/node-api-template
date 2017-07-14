@@ -1,5 +1,5 @@
 {
-  "name": "infusion-titan",
+  "name": "node-api-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nateleavitt/infusion-titan.git"
+    "url": "git+https://github.com/nateleavitt/node-api-template.git"
   },
   "author": "Nathan Leavitt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nateleavitt/infusion-titan/issues"
+    "url": "https://github.com/nateleavitt/node-api-template/issues"
   },
-  "homepage": "https://github.com/nateleavitt/infusion-titan#readme",
+  "homepage": "https://github.com/nateleavitt/node-api-template#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
